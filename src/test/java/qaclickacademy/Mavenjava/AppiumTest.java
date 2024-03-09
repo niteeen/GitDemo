@@ -20,7 +20,7 @@ public void Appiumtestcase1(String brw) {
 public void Appiumtestcase2() {
 	
 	
-	System.out.println("This is Appiumtestcase2");	
+	System.out.println("This is Appiumtestcase2 hey there");	
 		
 }
 
