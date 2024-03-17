@@ -23,6 +23,8 @@ public void Appiumtestcase2() {
 	System.out.println("This is Appiumtestcase2");	
 	System.out.println("Making some changes from Eclipse Git3");	
 	System.out.println("Adding Latest Commit");
+	
+	System.out.println("I am doing this commit for revert changes");
 		
 }
 
