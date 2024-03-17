@@ -25,6 +25,7 @@ public void Appiumtestcase2() {
 	System.out.println("Adding Latest Commit");
 	
 	System.out.println("I am doing this commit for revert changes");
+	System.out.println("I am doing this commit for revert changes2");
 		
 }
 
