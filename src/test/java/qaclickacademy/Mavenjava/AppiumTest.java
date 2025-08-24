@@ -3,6 +3,8 @@ package qaclickacademy.Mavenjava;
 
 import org.testng.annotations.Test;
 
+import java.sql.SQLOutput;
+
 public class AppiumTest {
 	
 /*	
@@ -20,7 +22,8 @@ public void Appiumtestcase1(String brw) {
 public void Appiumtestcase2() {
 	
 	
-	System.out.println("This is Appiumtestcase2 hey there");	
+	System.out.println("This is Appiumtestcase2 hey there");
+	System.out.println("Hey guys checkout this");
 		
 }
 
